@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# A Personal Portfolio 🌟
 
-## Getting Started
+Welcome to my **Personal Portfolio** 🚀 – a **modern** and **fully responsive** website designed to showcase my **projects, skills, and experiences**.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tech Stack ⚡
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This portfolio leverages the latest web technologies to ensure **high performance** and a **smooth user experience**:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js** – Optimized for performance, server-side rendering (SSR), and SEO.  
+- **Tailwind CSS** – A utility-first CSS framework for clean and maintainable styling.  
+- **Framer Motion** – Interactive and elegant animations for a dynamic experience.  
+- **TypeScript** – Enhancing code reliability, scalability, and maintainability.  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Features 🚀
 
-To learn more about Next.js, take a look at the following resources:
+✔️  **Fully Responsive** – Optimized for all screen sizes and devices.  
+✔️  **Dark Mode Support** – Automatic theme switching for a better user experience.  
+✔️  **Smooth Animations** – Engaging UI interactions with Framer Motion.  
+✔️  **SEO Optimized** – Improved ranking and visibility with Next.js SSR.  
+✔️  **Projects Showcase** – Highlighting featured work and contributions.  
+✔️  **Contact Form** – Direct email integration via **Resend API** for easy communication.  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Visit the Website 🌍
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Explore the portfolio**: [majedalshehri.com](https://www.majedalshehri.com/)
